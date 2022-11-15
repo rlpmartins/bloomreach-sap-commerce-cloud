@@ -5,7 +5,9 @@
         "cloudmediaconversion",  
         "mediaconversionbackoffice",
         "solrfacetsearchbackoffice",
+        "backofficesolrsearch",
         "solrserver",
+        "solrfacetsearch",
         "pcmbackofficesamplesaddon"
     ],
     "useConfig": {
